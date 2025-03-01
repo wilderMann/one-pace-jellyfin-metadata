@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <lockdata>false</lockdata>
+  <dateadded>2024-08-23 22:56:27</dateadded>
+  <title>Syrup Village 01</title>
+  <year>2018</year>
+  <runtime>28</runtime>
+  <art>
+    <poster>/mnt/storage02/localplex02/onepace/One Pace/[One Pace][23-41] Syrup Village [480p]/[One Pace][23-25] Syrup Village 01 [480p][B19F374A]-thumb.jpg</poster>
+  </art>
+  <showtitle>One Pace</showtitle>
+  <episode>25</episode>
+  <aired>2018-02-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>556878</bitrate>
+        <width>640</width>
+        <height>480</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>23.809525</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>28</duration>
+        <durationinseconds>1686</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

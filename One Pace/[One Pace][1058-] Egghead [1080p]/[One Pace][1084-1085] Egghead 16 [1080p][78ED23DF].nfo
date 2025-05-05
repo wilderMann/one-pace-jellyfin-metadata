@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>The Straw Hats prepare to leave Wano, saying their farewells to Momonosuke and the people. Momonosuke steps into his role as shogun, promising to protect Wano’s future. The crew sets sail once more, ready for new adventures as the world adjusts to the new balance of power.</plot>
+  <lockdata>false</lockdata>
+  <dateadded>2025-05-04 15:00:38</dateadded>
+  <title>The Attempted Murder of a Celestial Dragon</title>
+  <runtime>25</runtime>
+  <art />
+  <showtitle>One Pace</showtitle>
+  <episode>16</episode>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3079987</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>24</duration>
+        <durationinseconds>1490</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128056</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

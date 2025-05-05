@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot>The raid begins as the alliance launches a surprise attack on Kaido’s fleet. Luffy, Law, and Kid lead the charge, blowing up enemy ships and pushing forward toward Onigashima, while the samurai resolve to rescue Momonosuke</plot>
+  <lockdata>false</lockdata>
+  <dateadded>2025-05-04 09:30:09</dateadded>
+  <title>The Party's Off!!!</title>
+  <runtime>30</runtime>
+  <art>
+    <poster>/data/media/series/One Pace/[One Pace][909-1057] Wano [1080p]/[One Pace][980-981] Wano 45 [1080p][DFB30A71]-thumb.jpg</poster>
+  </art>
+  <showtitle>One Pace</showtitle>
+  <episode>45</episode>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6964817</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>30</duration>
+        <durationinseconds>1820</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128057</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128057</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <width>0</width>
+        <height>0</height>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>
